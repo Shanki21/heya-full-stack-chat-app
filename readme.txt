@@ -1,5 +1,5 @@
 
-a Realtime Chat App with MERN Stack
+a Realtime Chat App 
 
 Highlights:
 
